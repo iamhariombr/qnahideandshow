@@ -1,3 +1,89 @@
-.body {
-    color:red;
+<style>
+  /* body {
+  font-family: "Lato", sans-serif;
+  background-color: var(--bg-color);
+  color: var(--font-color);
+  max-width: 95%;
+  margin: 0 auto;
+  font-size: calc(1rem + 0.25vh);
 }
+
+hr {
+    max-width: 100%;
+}
+
+h1 {
+    color: var(--heading-color);
+    font-family: "Sansita One", serif;
+    font-size: 2rem;
+    margin-bottom: 1vh;
+}
+
+p {
+  font-size: 1.1rem;
+  line-height: 1.6rem;
+} */
+.refresh-page {
+  cursor: pointer;
+    background-color: #a0fcc6;
+    border: none;
+    padding: 5px;
+    font-size: 20px;
+    border: 1px solid #351c75;
+    border-radius: 5px;
+}
+
+.section4 {
+    background-color: antiquewhite;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.section5 {
+    background-color: antiquewhite;
+    padding-bottom: 20px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.hide-answer {
+    cursor: pointer;
+    background-color: #d5d5fc;
+    border: none;
+    padding: 5px;
+    font-size: 15px;
+    border: 1px solid #351c75;
+    border-radius: 5px;
+}
+
+.print-page{
+  cursor: pointer;
+    background-color: #fcf8c9;
+    border: none;
+    padding: 5px;
+    font-size: 15px;
+    border: 1px solid #351c75;
+    border-radius: 5px;
+}
+
+.show-answer {
+  cursor: pointer;
+    background-color: #c8a0fc;
+    border: none;
+    padding: 5px;
+    font-size: 15px;
+    border: 1px solid #351c75;
+    border-radius: 5px;
+}
+
+.answer-sheet {
+  cursor: pointer;
+    background-color: #c2fca0;
+    border: none;
+    padding: 5px;
+    font-size: 15px;
+    border: 1px solid #351c75;
+    border-radius: 5px;
+}
+</style>
+<!---------------style.js END---------------------->
